@@ -1,6 +1,6 @@
 ## Hi, I'm James 👋
 
-🛠️ **Hardware Hacker & Embedded Maker**
+### 🛠️ Hardware Hacker & Embedded Maker
 Bridging bare-metal silicon with lean, reliable code. Obsessed with high-speed buses, custom PCBs, tight driver optimizations, and making hardware do things it wasn't supposed to.
 
 ---
