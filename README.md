@@ -5,7 +5,7 @@ Bridging bare-metal silicon with lean, reliable code. Obsessed with high-speed b
 
 ---
 
-### 💻 Stack & Tooling
+**Stack & Tooling**
 * **Firmware:** C/C++, Bare-metal MCU, FreeRTOS
 * **Hardware:** Multi-layer PCB Layout, Digital & Analog Circuit Design, Logic Analyzers, Lab Debugging
 * **Protocols:** Standard Serial & Fieldbuses, Proprietary Industrial/Automotive Protocols, Wireless Stacks
